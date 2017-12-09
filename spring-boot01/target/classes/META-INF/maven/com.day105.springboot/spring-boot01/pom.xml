@@ -6,6 +6,7 @@
   
   <!-- 继承spring=boot的父工程 aaaa-->
   <!-- aaaaa-->
+  <!-- bbbbb-->
   <parent>
   	<groupId>org.springframework.boot</groupId>
   		<artifactId>spring-boot-starter-parent</artifactId>
